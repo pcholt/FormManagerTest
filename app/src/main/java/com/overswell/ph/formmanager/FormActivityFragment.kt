@@ -9,9 +9,6 @@ import android.widget.ArrayAdapter
 import kotlinx.android.synthetic.main.item_form_element.view.*
 import kotlinx.android.synthetic.main.item_form_select.view.*
 
-/**
- * A placeholder fragment containing a simple view.
- */
 class FormActivityFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
